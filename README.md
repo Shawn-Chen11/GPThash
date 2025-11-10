@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project investigates the application of large-model paradigms—particularly Transformer-based architectures—to the task of **long-term airborne trajectory prediction**. Inspired by advances in natural language processing, we propose a novel **"trajectory-as-language"** modeling framework, where continuous flight trajectories are discretized into token-like sequences and processed using self-attention mechanisms.
+This project investigates the application of large-model paradigms to the task of **long-term airborne trajectory prediction**. Inspired by advances in natural language processing, we propose a novel **"trajectory-as-language"** modeling framework, where continuous flight trajectories are discretized into token-like sequences and processed using self-attention mechanisms.
 
 The goal is to overcome the limitations of traditional recurrent models (e.g., LSTM) in capturing long-range spatiotemporal dependencies, thereby enabling more accurate, stable, and interpretable predictions for air traffic management, flight safety assurance, and anomaly detection.
 
